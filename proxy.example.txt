@@ -1,0 +1,7 @@
+# Rename this file to proxy.txt before running the bot
+# Add your proxies below — one per line
+# Lines starting with # are ignored
+# Leave empty or delete this file to run without proxies
+
+http://user:pass@host:port
+socks5://user:pass@host:port

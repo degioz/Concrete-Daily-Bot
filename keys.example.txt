@@ -1,0 +1,7 @@
+# Rename this file to keys.txt before running the bot
+# Add your private keys below — one per line
+# Lines starting with # are ignored
+
+0xYOUR_PRIVATE_KEY_1
+0xYOUR_PRIVATE_KEY_2
+0xYOUR_PRIVATE_KEY_3
