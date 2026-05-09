@@ -26,7 +26,7 @@ Runs every 24 hours — performs wallet login and daily check-in automatically.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/concrete-daily-bot.git
+git clone https://github.com/degioz/concrete-daily-bot.git
 cd concrete-daily-bot
 pip install -r requirements.txt
 ```
