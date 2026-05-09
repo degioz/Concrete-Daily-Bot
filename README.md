@@ -11,7 +11,6 @@ Runs every 24 hours — performs wallet login and daily check-in automatically.
 - ✅ Daily check-in automation
 - ✅ Multi-wallet support
 - ✅ Optional proxy support
-- ✅ Auto proxy rotation & dead proxy detection
 - ✅ Loops every 24 hours automatically
 
 ---
